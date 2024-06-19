@@ -1,0 +1,8 @@
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\bin\Debug\nuemrosPrimos.exe.config
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\bin\Debug\nuemrosPrimos.exe
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\bin\Debug\nuemrosPrimos.pdb
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\obj\Debug\nuemrosPrimos.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\obj\Debug\nuemrosPrimos.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\obj\Debug\nuemrosPrimos.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\obj\Debug\nuemrosPrimos.exe
+C:\Projetos\ExerciciosCShap\nuemrosPrimos\nuemrosPrimos\obj\Debug\nuemrosPrimos.pdb

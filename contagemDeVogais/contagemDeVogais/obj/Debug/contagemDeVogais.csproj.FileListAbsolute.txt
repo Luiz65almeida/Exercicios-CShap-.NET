@@ -1,0 +1,8 @@
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\obj\Debug\contagemDeVogais.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\obj\Debug\contagemDeVogais.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\obj\Debug\contagemDeVogais.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\bin\Debug\contagemDeVogais.exe.config
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\bin\Debug\contagemDeVogais.exe
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\bin\Debug\contagemDeVogais.pdb
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\obj\Debug\contagemDeVogais.exe
+C:\Projetos\ExerciciosCShap\contagemDeVogais\contagemDeVogais\obj\Debug\contagemDeVogais.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\bin\Debug\reversaoDeString.exe.config
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\bin\Debug\reversaoDeString.exe
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\bin\Debug\reversaoDeString.pdb
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\obj\Debug\reversaoDeString.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\obj\Debug\reversaoDeString.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\obj\Debug\reversaoDeString.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\obj\Debug\reversaoDeString.exe
+C:\Projetos\ExerciciosCShap\reversaoDeString\reversaoDeString\obj\Debug\reversaoDeString.pdb

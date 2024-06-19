@@ -1,0 +1,8 @@
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe.config
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\bin\Debug\SomaDeNumeros.pdb
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.exe
+C:\Projetos\ExerciciosCShap\SomaDeNumeros\SomaDeNumeros\obj\Debug\SomaDeNumeros.pdb
